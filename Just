@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Just</title>
+</head>
+<body>
+<h1>Justice</h1>
+<h6>definition of justice</h6>
+<p>just behavior or treatment.</p>
+<ul>
+<li>D&C 130:20</li>
+<li>2Naphi 9:26</li>
+</ul>
+</body>
+</html>
