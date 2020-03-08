@@ -2,3 +2,5 @@
 1. [Just](https://covington-shey.github.io/Eternal-Families-Project/Just.html)
 2. Merciful 
 3. Loving
+4. Patient 
+
